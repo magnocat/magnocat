@@ -1,4 +1,4 @@
-[./banner.jpg]
+[https://raw.githubusercontent.com/magnocat/magnocat/main/banner.jpg]
 
 [[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=IT+Infrastructure+%26+Cybersecurity;Local+AI+%26+Multi-Node+Homelab;Embedded+IoT+%26+ESP32+Firmware;Founder+%40+MagnoCat+Tecnologia]](https://github.com/magnocat)
 
@@ -38,8 +38,8 @@ active:     MagnoOS (ESP32-S3), ZeraOS (FastAPI), Softex-TrendsIA
 ---
 
 ### Telemetry
-[![MagnoCat's GitHub stats](https://github-stats-extended.vercel.app/api?username=magnocat)](https://github.com/magnocat)
-[https://github-stats-extended.vercel.app/api?] [https://github-stats-extended.vercel.app/api/top-langs/?username=magnocat&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&border_color=1f2937]
+[https://github-stats-extended.vercel.app/api?username=magnocat&show_icons=true&show=contributions&theme=tokyonight&bg_color=0d1117&title_color=00f0ff&icon_color=00ff9d&text_color=c9d1d9&border_color=1f2937]
+[https://github-stats-extended.vercel.app/api/top-langs/?username=magnocat&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&border_color=1f2937]
 
 ---
 
