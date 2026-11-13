@@ -1,4 +1,4 @@
-[https://raw.githubusercontent.com/magnocat/magnocat/main/banner.jpg]
+![MagnoCat Tecnologia | Infrastructure | Cybersecurity | Local AI | Embedded IoT](https://raw.githubusercontent.com/magnocat/magnocat/main/banner.jpg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=IT+Infrastructure+%26+Cybersecurity;Local+AI+%26+Multi-Node+Homelab;Embedded+IoT+%26+ESP32+Firmware;Founder+%40+MagnoCat+Tecnologia)](https://github.com/magnocat)
 
