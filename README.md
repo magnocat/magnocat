@@ -38,8 +38,8 @@ active:     MagnoOS (ESP32-S3), ZeraOS (FastAPI), Softex-TrendsIA
 ---
 
 ### Telemetry
-[https://github-stats-extended.vercel.app/api?username=magnocat&show_icons=true&show=contributions&theme=tokyonight&bg_color=0d1117&title_color=00f0ff&icon_color=00ff9d&text_color=c9d1d9&border_color=1f2937]
-[https://github-stats-extended.vercel.app/api/top-langs/?username=magnocat&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&border_color=1f2937]
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=magnocat&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=magnocat&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=magnocat&layout=compact&hide_title=true&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=magnocat&layout=compact&hide_title=true&langs_count=6&theme=transparent)
 
 ---
 
